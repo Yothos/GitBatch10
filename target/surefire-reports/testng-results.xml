@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="28888" started-at="2021-10-26T11:37:32 AMT" finished-at="2021-10-26T11:38:01 AMT">
+    <groups>
+      <group name="smoke">
+        <method signature="AddEmployeeTest.addEmployee()[pri:0, instance:testcases.AddEmployeeTest@23e028a9]" name="addEmployee" class="testcases.AddEmployeeTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="C:/Users/nicks/IdeaProjects/TestNgFrameworkBatch11" duration-ms="28888" started-at="2021-10-26T11:37:32 AMT" finished-at="2021-10-26T11:38:01 AMT">
+      <class name="testcases.AddEmployeeTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testcases.AddEmployeeTest@23e028a9]" name="openBrowser" is-config="true" duration-ms="7222" started-at="2021-10-26T11:37:32 AMT" finished-at="2021-10-26T11:37:40 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="addEmployee()[pri:0, instance:testcases.AddEmployeeTest@23e028a9]" name="addEmployee" duration-ms="20900" started-at="2021-10-26T11:37:40 AMT" finished-at="2021-10-26T11:38:01 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.AddEmployeeTest@23e028a9]" name="tearDown" is-config="true" duration-ms="727" started-at="2021-10-26T11:38:01 AMT" finished-at="2021-10-26T11:38:01 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.AddEmployeeTest -->
+    </test> <!-- C:/Users/nicks/IdeaProjects/TestNgFrameworkBatch11 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
